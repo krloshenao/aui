@@ -50,7 +50,7 @@
     # 1) Default
     # 2) Infinality
     # 3) Ubuntu
-    FONTCONFIG=2
+    FONTCONFIG=1
   #}}}
   #ADDITIONAL FIRMWARE {{{
     # 1) aic94xx-firmware

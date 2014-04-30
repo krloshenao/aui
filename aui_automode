@@ -35,7 +35,7 @@
   MAINMENU="1-13 15"
 #}}}
 #BASIC SETUP {{{
-  CUPS="y"
+  CUPS="n"
   CUSTOMREPO="n"         # Add custom repositories
   FIRMWARE="y"           # Install custom firmwares
   GITTOR="n"

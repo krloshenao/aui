@@ -40,11 +40,11 @@
   FIRMWARE="y"           # Install custom firmwares
   GITTOR="n"
   NFS="n"
-  READAHEAD="y"
-  SAMBA="y"
-  SSH="y"
+  READAHEAD="n"
+  SAMBA="n"
+  SSH="n"
   TLP="n"                # Laptop Power Manager
-  ZRAM="y"
+  ZRAM="n"
   PROPRIETARY_DRIVER="n" # Proprietary (NVIDIA|ATI) driver
   #FONT CONFIGURATION {{{
     # 1) Default
@@ -84,7 +84,7 @@
   #KDE {{{
     # 1) Full
     # 2) Minimal
-    KDE_INSTALL="1"
+    KDE_INSTALL=""
     # 1) Apper
     # 2) Choqok
     # 3) Digikam
@@ -128,7 +128,7 @@
     # 3) Moka
     # 4) Nitrux
     # 5) Numix
-    ICONS_THEMES="1-5"
+    ICONS_THEMES="5"
   #}}}
   #GTK THEMES {{{
     # 1) Greybird
@@ -244,7 +244,7 @@
   # 7) Virtualbox
   # 8) Webmin
   # 9) Wine
-  SYSTEMTOOLS_OPTIONS="9"
+  SYSTEMTOOLS_OPTIONS=""
 #}}}
 #GRAPHICS {{{
   # 1) Blender
@@ -274,7 +274,7 @@
     # 3) Midori|Rekonq
     # 4) Mozilla Firefox
     # 5) Opera
-    BROWSERS_OPTIONS="1"
+    BROWSERS_OPTIONS=""
   #}}}
   #DOWNLOAD|FILESHARE {{{
     # 1) AeroFS

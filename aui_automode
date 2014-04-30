@@ -244,7 +244,7 @@
   # 7) Virtualbox
   # 8) Webmin
   # 9) Wine
-  SYSTEMTOOLS_OPTIONS=""
+  SYSTEMTOOLS_OPTIONS="9"
 #}}}
 #GRAPHICS {{{
   # 1) Blender

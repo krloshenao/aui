@@ -45,7 +45,7 @@
   SSH="n"
   TLP="n"                # Laptop Power Manager
   ZRAM="n"
-  PROPRIETARY_DRIVER="n" # Proprietary (NVIDIA|ATI) driver
+  PROPRIETARY_DRIVER="y" # Proprietary (NVIDIA|ATI) driver
   #FONT CONFIGURATION {{{
     # 1) Default
     # 2) Infinality
@@ -274,7 +274,7 @@
     # 3) Midori|Rekonq
     # 4) Mozilla Firefox
     # 5) Opera
-    BROWSERS_OPTIONS=""
+    BROWSERS_OPTIONS="2"
   #}}}
   #DOWNLOAD|FILESHARE {{{
     # 1) AeroFS
